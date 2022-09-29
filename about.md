@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Liam Kelly, I'm an engineering physicist who specializes in data analysis.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[liamgeorgekelly@gmail.com](mailto:liamgeorgekelly@gmail.com)
